@@ -20,10 +20,7 @@ Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ## Demo
-
-<p align="center">
-<img width="250" src="/src/Images/SlotMachineGame.png?raw=true" hspace="20" vspace="20">
-</p>
+![SlotMachineGame](https://user-images.githubusercontent.com/80453887/118145245-09722100-b42b-11eb-8927-32e1e3920862.PNG)
 
 ### `npm run build`
 
