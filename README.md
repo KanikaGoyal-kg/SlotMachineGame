@@ -22,7 +22,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ## Demo
 
 <p align="center">
-<img width="250" src="./src/Images/SlotMachineGame.png?raw=true" hspace="20" vspace="20">
+<img width="250" src="/src/Images/SlotMachineGame.png?raw=true" hspace="20" vspace="20">
 </p>
 
 ### `npm run build`
